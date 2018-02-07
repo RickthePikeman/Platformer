@@ -1,0 +1,12 @@
+﻿  stdafx.cpp
+  Update.cpp
+  TextureHolder.cpp
+  Main.cpp
+  Input.cpp
+  Engine.cpp
+c:\users\juggernaut\documents\opengl\c++ game programming\projects\twl\twl\engine.cpp(8): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\juggernaut\documents\opengl\c++ game programming\projects\twl\twl\engine.cpp(9): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\juggernaut\documents\opengl\c++ game programming\projects\twl\twl\engine.cpp(11): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Draw.cpp
+  Generating Code...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
